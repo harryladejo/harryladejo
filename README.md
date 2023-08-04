@@ -12,6 +12,6 @@ Hi, I'm Harry and I'm Software Developer Apprentice at Beyond Co.
 <!-- 💬 Ask me about 
 - 📫 How to reach me
 -->
-- 😄 Pronouns: he/him
+- 🇳🇬 Name in Yoruba: Bosun
 - 🔴🏎️ Fun fact: Support Liverpool FC and Aston Martin in Formula 1
 -->
