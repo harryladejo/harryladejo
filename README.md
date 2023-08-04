@@ -11,7 +11,7 @@ Hi, I'm Harry and I'm Software Developer Apprentice at Beyond Co.
 - 🌱 I’m currently learning JavaScript
 <!-- 💬 Ask me about 
 - 📫 How to reach me
-- 😄 Pronouns: he/him
 -->
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Support Liverpool FC and Aston Martin in Formula 1
 -->
